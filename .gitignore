@@ -1,0 +1,18 @@
+# Pythonの実行時キャッシュ
+__pycache__/
+*.py[cod]
+
+# PyInstallerの中間生成物
+build/
+dist/
+*.spec
+
+# 仮想環境とIDE固有ファイル
+.venv/
+venv/
+.idea/
+.vscode/
+
+# OSが自動生成するファイル
+Thumbs.db
+.DS_Store
